@@ -9,7 +9,7 @@ Our mission is to provide the EDA community with high-quality, user-friendly too
 ### Current Projects
 You can find our current projects and their documentation on the [JuliaEDA organization's GitHub page](https://github.com/JuliaEDA):
 
-- [Gaiger](https://github.com/JuliaEDA/Gaiger): A circuit synthesizer and logic and LUT optimizer that parallelizes the Berkeley ABC tool using Julia's powerful parallel computing capabilities.
+- [Gaiger]([https://codeberg.org/OpenTools/Gaiger](https://codeberg.org/OpenTools/Gaiger): A circuit synthesizer and logic and LUT optimizer that parallelizes the Berkeley ABC tool using Julia's powerful parallel computing capabilities.
 - [DynamicQuantumCircuits.jl](https://github.com/JuliaEDA/DynamicQuantumCircuits.jl): A package for optimizing and verifying quantum circuits, designed to overcome the limitations of current Noisy Intermediate-Scale Quantum (NISQ) devices by reducing the number of qubits or depth.
 
 ### How can the community get involved?
