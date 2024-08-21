@@ -8,7 +8,7 @@ Our mission is to provide the EDA community with high-quality, user-friendly too
 
 ### Quantum Computing and the Julia Ecosystem
 
-We are particularly focused on developing libraries and tools that integrate different quantum computing frameworks and libraries within the Julia ecosystem. This includes providing support for popular quantum programming frameworks like Qiskit, Cirq, and Pennylane, as well as developing our own custom quantum computing tools tailored for the Julia environment.
+We are particularly focused on developing libraries and tools that integrate different quantum computing frameworks and libraries within the Julia ecosystem. This includes providing support for popular quantum programming frameworks like Qiskit, Yao.jl, and Braket.jl, as well as developing our own custom quantum computing tools tailored for the Julia environment.
 
 Our goal is to make it easier for researchers, engineers, and enthusiasts to explore and experiment with quantum computing, both in the context of traditional EDA tasks and in the realm of unconventional computing paradigms, such as nano computing and digital microfluidics droplet computing.
 
